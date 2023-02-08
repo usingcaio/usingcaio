@@ -11,5 +11,5 @@
  
  
  - 🔭 I’m currently working on Science Communication 
-- 🌱 I’m currently learning Physics, Fluid Dynamics, ML
+- 🌱 I’m currently learning General Relativity, Quantum Field Theory
 - 📫 How to reach me: caioocs@alu.ufc.br
