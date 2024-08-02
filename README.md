@@ -10,6 +10,6 @@
  
  
  
- - 🔭 I’m currently working on Science Communication 
-- 🌱 I’m currently learning General Relativity, Quantum Field Theory
-- 📫 How to reach me: caioocs@alu.ufc.br
+- 🌱 Currently working on Black Hole Shadows
+- 🔭 Interested in General Relativity, Relativistic Quantum Information and Quantum Field Theory
+- 📫 How to reach me: caio@fisica.ufc.br
